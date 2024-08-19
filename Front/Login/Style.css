@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+
+body{
+    display: flex;
+    width: 20%;
+    flex-direction: column;
+    align-items: center;
+    border: solid;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-left: 39%;
+    margin-top: 5%;
+}
+
+
+.Text{
+    display: flex;
+    padding: 60px;
+
+}
+
+.Email{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+
+.Senha{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.Login_Botão{
+    display: flex;
+    padding: 10px;
+    width: 162px;
+    border: solid;
+    border-width: 1px;
+    justify-content: center;
+}
+
+.Recuperar_Senha{
+    display: flex;
+    padding: 10px;
+}
+
+.Criar_Conta{
+    display: flex;
+    width: 85%;
+    border: solid;
+    border-width: 1px;
+    background-color: greenyellow;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+
+}
+.Linguagem{
+    display: flex;
+}
